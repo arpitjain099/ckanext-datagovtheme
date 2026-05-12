@@ -46,7 +46,7 @@ CKAN version | Compatibility
 
 ### Configuration
 
-_TODO: what configuraiton options exist?_
+_TODO: what configuration options exist?_
 
 
 ## Development
